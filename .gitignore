@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.faiss
+*.index
+*.pdf
+.env
+temp.pdf
+chatbot/
+vectorstore/
